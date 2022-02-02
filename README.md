@@ -6,7 +6,7 @@ Hiya! This is an awesome little 3D runner game I made, drawing some inspiration 
 ![demo](https://storage.googleapis.com/replit/images/1617891278652_1452a0540babe4f1cc017b8d89747160.jpeg)
 
 ## Play It On Fullscreen
-### **CLICK [THIS LINK](https://rollingforests.rayhanadev.repl.co)**
+### **CLICK [THIS LINK]()**
 
 ## How to Play?
 Just avoid the trees and keep rolling to get new high scores! But watch out, the game gets progressively harder the longer you roll.
